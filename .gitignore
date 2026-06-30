@@ -22,3 +22,12 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+
+# React component files
+Radio_DropDown.jsx
+CheckBoxes.jsx
+ReuseComponent.jsx
+User.jsx
+Student.jsx
+College.jsx
